@@ -1,0 +1,8 @@
+Project 3 
+Jeffrey Witthuhn
+CSCI 311
+09/29/15
+Project done on CSCI2 servers
+account: cs311109
+path: /export/home/cs311/cs311109/Project3/
+permissions: chmod 700 Project3
